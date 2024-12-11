@@ -1,0 +1,14 @@
+{
+  "sector": 21,
+  "planet": "redono",
+  "difficulty": 5,
+  "research": {
+    "parent": "double-outpost",
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "redno-silo"
+      }
+    ]
+  }
+}
