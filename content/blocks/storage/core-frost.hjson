@@ -1,0 +1,16 @@
+type: CoreBlock
+name: Core: Frost
+description: A powerful core that produces advanced blue-core1 units.
+size: 3
+health: 2400
+itemCapacity: 4000
+unitCapModifier: 8
+unitType: blue-core1
+requirements: [
+    copper/1200
+    lead/1000
+    silicon/800
+]
+category: effect
+alwaysUnlocked: true
+buildVisibility: sandboxOnly
